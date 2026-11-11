@@ -36,3 +36,5 @@ Well-paid remote work or project-based commissions, working from home. Each prod
 - Portfolio (Spanish): https://rigdevia.github.io/
 - Portfolio (English): https://rigdevia.github.io/en/
 - Languages: Spanish (native) · English (basic)
+
+- LinkedIn: https://www.linkedin.com/in/rigdevia
